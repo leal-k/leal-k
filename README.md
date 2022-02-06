@@ -19,7 +19,7 @@
 
 ## Reach me at
 - leal.k.2199@gmail.com
-- https://www.linkedin.com/in/kaique-leal-8a557b1a3/
+- https://www.linkedin.com/in/leal-k/
 <!---
 leal-k/leal-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
