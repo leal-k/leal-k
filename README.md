@@ -4,7 +4,7 @@
 ## **My name is Kaique Leal**
 
 - :computer: I'm currently studying Computer Science at UNIFEI - Universidade Federal de Itajubá
-- 📚 Current intern on Macareux Digital Inc. in Tokyo
+- 📚 Current intern on Makasí
 - :chart_with_upwards_trend: Experience with C, Java, Ruby, MySQL, PHP, API Rest with PHP, Flutter, HTML, CSS and Javascript
 - :globe_with_meridians: Experience in Computer Network
 - :page_with_curl: 6 month intern on IT Department of Itajubá's City Hall
